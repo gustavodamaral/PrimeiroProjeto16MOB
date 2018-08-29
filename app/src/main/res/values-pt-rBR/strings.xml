@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimeiroProjeto</string>
+    <string name="label_titulo">Calculadora</string>
+    <string name="label_peso">Seu peso</string>
+    <string name="hint_peso">em Kg</string>
+    <string name="label_altura">Sua altura</string>
+    <string name="hint_altura">em cm</string>
+    <string name="botao_limpar">Limpar</string>
+    <string name="botao_calcular">Calcular</string>
+</resources>
